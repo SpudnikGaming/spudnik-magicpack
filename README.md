@@ -1,0 +1,2 @@
+# spudnik-magicpack
+Magic Pack!
